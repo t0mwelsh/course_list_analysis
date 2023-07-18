@@ -1,6 +1,3 @@
-// PHYS 30762 Programming in C++
-// Assignment 2
-
 // Program to compute mean, standard deviation and standardberror of a set of courses. Data is read from a file.
 // This program is set such that the file has rows of data entries of the form: grade course_code  course_name, 
 // eg. 65.6 10071   Mathematics 1
